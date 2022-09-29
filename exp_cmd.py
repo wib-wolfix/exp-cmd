@@ -32,7 +32,7 @@ def Main():
 [3] = Change user password
 [4] = Delete user account
     """)
-    x = input('Choix: ')
+    x = input('Choice: ')
     if x == "1":
         RunCMDadm('cmd')
     elif x == "2":
