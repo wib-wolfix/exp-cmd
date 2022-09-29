@@ -1,13 +1,13 @@
-this tool can:
+this tool can: <br>
 
-------------
-Admin CMD
-Create user (admin or no admin)
-Change user password
-Delete user account
-------------
+------------ <br>
+Admin CMD <br>
+Create user (admin or no admin) <br>
+Change user password <br>
+Delete user account <br>
+------------ <br>
 
-For use:
+For use: <br>
 
-- Start exp-cmd.py with python or exp-cmd.exe
-(ONLY FOR WINDOWS)
+- Start exp-cmd.py with python or exp-cmd.exe <br>
+(ONLY FOR WINDOWS) <br>
